@@ -26,10 +26,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" alt="python" width="26" height="26"/> </a>
    </a>&nbsp;&nbsp;
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="python" width="26" height="26"/> </a>
-   </a>&nbsp;&nbsp;
-   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="26" height="26"/> </a>
-   </a>&nbsp;&nbsp;
       <a href="https://www.microsoft.com/en-gb/windows/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="c" width="26" height="26"/> </a>
   &nbsp;&nbsp;
      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="c" width="26" height="26"/> </a>
