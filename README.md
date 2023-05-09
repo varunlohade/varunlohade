@@ -34,7 +34,8 @@
    </a>&nbsp;&nbsp;
   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="26" height="26"/> </a> </p>
 
-
+## Github Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=varunlohade&theme=radical)
 <!---
 varunlohade/varunlohade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
