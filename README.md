@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varunlohade
 - 👀 I’m interested in App development, Backend development and building apps
-- 🌱 I’m currently learning REST APIs and OpenGL
+- 🌱 I’m currently learning Node.js and Rust
 
 
 
